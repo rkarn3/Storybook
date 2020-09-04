@@ -1,31 +1,27 @@
-p{
-    margin:10px 0 !important;
+p {
+  margin: 10px 0 !important;
 }
 
-h4{
+h4 {
   margin: 10px 0 !important;
   font-weight: 500;
 }
 
-.login-container{
-    width: 400px;
-    margin-top: 50px;
-    text-align: center;
+.login-container {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
 }
 
 .fa-small {
-    font-size: 16px !important;
-  }
-  
-  .btn-float {
-    float: left;
-    margin-right: 10px;
-  }
-  
-  .img-small {
-    width: 180px;
-  }
+  font-size: 16px !important;
+}
 
-  body{
-    background-image: url(/img/bg.jpg);
-  }
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
